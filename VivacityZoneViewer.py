@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 #/usr/bin/python
 import Tkinter as tk
 ##from tkinter import ttk
@@ -8,8 +10,7 @@ from DocumentClass import Document
 import codecs
 import random
 
-import matplotlib
-matplotlib.use('Agg')
+
 
 VivacityColors = [
 '#0471BD', #blue
