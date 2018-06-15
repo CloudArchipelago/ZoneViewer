@@ -8,6 +8,9 @@ from DocumentClass import Document
 import codecs
 import random
 
+import matplotlib
+matplotlib.use('Agg')
+
 VivacityColors = [
 '#0471BD', #blue
 '#2DD354', #green
