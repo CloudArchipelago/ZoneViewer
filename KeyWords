@@ -1,0 +1,56 @@
+Bulk Regulation,Y,bulk
+Height Regulations,N,height
+Setback Regulations,N,setback
+Floor Area,Y,floor area
+Floor Area Ratio (FAR),N,area ratio,FAR
+Max Height,N,max height,maximum height
+Street Wall Angle,N, angle
+Street Wall Height,N,wall height
+Street Frontage,Y,street frontage 
+Qualifying Ground Floor,Y,qualifying ground floor
+Sky Exposure Plane,Y,sky exposure plane
+Limited Height Districts,N,limited height district
+Railroad or Transit Air Space,Y,railroad or transit air space
+Density Regulation,N,density
+Unit,Y,unit
+Dwelling Units,Y,dwelling unit
+Open Area Regulations,N,open area
+Open Space,Y,open space
+Yard Regulations,Y,yard
+Court Regulations,Y,court
+Community District,N,community district
+Contextual District,N,contextual district
+Special Purpose District,N,special purpose district
+UseGroups,N,use group
+Mix Use,N,mixed use
+Quality Housing,N,quality housing
+Inclusionary Housing,N,inclusionary housing
+Mandatory Inclusionary Housing,Y,mandatory inclusionary housing,mih
+Affordable Housing,Y,affordable housing
+Affordable FAR,Y,affordable far,affordable floor area
+Low Income Floor Area,Y,low income floor area
+Large Scale Development,Y,large-scale
+Front Yard,Y,front yard
+Rear Yard,Y,rear yard
+Side Yard,Y,side yard
+Yard Equivalent,Y,yard equivalent
+Street Width Type,Y,wide,narrow
+Lot Area,Y,lot area
+Lot Coverage,Y,lot coverage
+Lot Depth,N,lot depth
+Open Space Ratio (OSR),Y,open space ratio, osr
+Abutting Building,Y,abut
+Attached Building,Y,attached
+Detached Building,Y,detached
+Semi-Detached Building,Y,semi-detatched
+Interior Lot,Y,interior
+Corner Lot,Y,corner 
+Shallow Lot,N,shallow 
+Through Lot,Y,through
+Street Length,N,length
+Intersection,N,intersection
+Assemblage Year,N,owned
+Arcades,Y,arcade
+Public Plaza,Y,public plaza
+Manhattan Core,Y,manhattan core
+Parking Requirements,N,parking
